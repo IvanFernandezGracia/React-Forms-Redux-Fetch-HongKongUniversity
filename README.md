@@ -1,6 +1,7 @@
 # Full-Stack Web Development with React - The Hong Kong University of Science and Technology.
 
 Website created in the course "Full-Stack Web Development with React Specialization" given by the The Hong Kong University of Science and Technology.
+Tech: React Class Components, React Boostrap, State and Props, JSX, Rendering to the DOM, React Router v4, Single Page Applications, Controlled Forms, Uncontrolled Forms, React Redux Form, Redux Thunk, Client-Server Communication, Fetch, React Animations, Building and Deployment, Redux Logger, React Bootstrap. Website created in the course "Full-Stack Web Development with React Specialization" given by the The Hong Kong University of Science and Technology.
 
 ## Home WebPage
 ![Captura de pantalla 2021-12-01 233346](https://user-images.githubusercontent.com/48660555/144346995-e2ac33fd-2f64-404e-8230-48682903a10b.png)
